@@ -1,0 +1,14 @@
+{
+	"registerValidationNameRequired": "name is required",
+	"registerValidationEmailRequired": "email is required",
+	"registerValidationPasswordRequired": "password is required",
+	"registerValidationPhoneRequired": "phone number is required",
+	"loginValidationEmailRequired": "email is required",
+	"loginValidationPasswordRequired": "password is required",
+	"createCategoryValidationNameRequired": "category name is required",
+	"createProductValidationTitleRequired": "title is required.",
+	"createProductValidationCategoryRequired": "category id is required",
+	"createProductValidationAmountRequired": "amount is required",
+	"createProductValidationImageUri": "createProductValidationImageUri",
+	"updateProductValidationTitleRequired": "updateProductValidationTitleRequired"
+}
